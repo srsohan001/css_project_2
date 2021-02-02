@@ -1,0 +1,28 @@
+h1{
+	color: red;
+}
+.bg_yellow{
+background-color: green
+}
+.border{
+	border: 5px dotted green;
+}
+
+#h1{
+	font-style: italic;
+}
+h2{
+	color: green;
+}
+.h2{
+	background-color: yellow;
+}
+#h2{
+	font-size: 30px;
+}
+div{
+	 background-color:rgba(00,00,00,.7);
+	 	font-size: 30px;
+	height: 50px;
+	width: 100pt;
+	}
